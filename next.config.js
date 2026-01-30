@@ -3,6 +3,7 @@ const nextConfig = {
   output: 'export',
   images: { unoptimized: true },
   trailingSlash: true,
-  basePath: '/my-v0-project'  // 👈 YOUR REPO NAME
+  basePath: '/demo140'  // 👈 YOUR REPO NAME (from error log)
 }
+
 module.exports = nextConfig
